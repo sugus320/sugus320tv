@@ -2,13 +2,24 @@
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/db6073dade40.jpg" group-title="FreeTV", HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/db6073dade40.jpg" group-title="FreeTV", HBO2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/f865570b6b5d.webp" group-title="FreeTV", HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/7d96ee4ef1b6.webp" group-title="FreeTV", HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/7d96ee4ef1b6.webp" group-title="FreeTV", HBO SCI
+https://config-m3u8.mquanggiu290.workers.dev/Exploresci.m3u8?token=vip1234
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/7d96ee4ef1b6.webp" group-title="FreeTV", HBO WILD
+https://config-m3u8.mquanggiu290.workers.dev/Explorewild.m3u8?token=vip1234
 
 
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/6fe0c3fe33cc.jpg" group-title="FreeTV", HBO TH
