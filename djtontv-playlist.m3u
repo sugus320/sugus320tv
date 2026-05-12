@@ -53,6 +53,15 @@ https://config-m3u8.mquanggiu290.workers.dev/FILMhd.m3u8?token=vip1234
 https://config-m3u8.mquanggiu290.workers.dev/FILMhd.m3u8?token=vip1234
 
 
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp" group-title="FreeTV",TRUE มูฟวี่ฮิต
+http://117.18.127.253:8080/live/LqCaeMPxGyEBmYWwL5oZl7im7OGwdhxG/ecuOzlDUcarGLiUUsjJWfVe0EgrT6pY5/258231.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp" group-title="FreeTV",TRUE เอสไซ
+https://love.pifipa2974.workers.dev/lx-origin/sd-expsci_720/chunks.m3u8#http://119.59.118.168/live/ch56/thailosonic2026/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/4aa1bc465c6b.webp" group-title="FreeTV",MOVIES HITS1
 https://github.com/zaxacaasada/logotv/raw/refs/heads/main/truemoviehits.m3u8
 
